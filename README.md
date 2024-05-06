@@ -72,7 +72,7 @@ plt.axis('off')
 <br>
 
 ### Display the Dilated Image
-![Uploading image.png…]()
+![image](https://github.com/Evangelin-Ruth/erosion--dilation/assets/94219798/28a2a3c1-4cad-48d7-8756-adb5e043bd7e)
 <br>
 
 ## RESULT:
